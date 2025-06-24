@@ -121,4 +121,5 @@ export default [
   '0xb4444468e444f89e1c2cac2f1d3ee7e336cbd1f5', // RZR
   '0xEEEEEEE6d95E55A468D32FeB5d6648754d10A967', // stability usdc
   '0xccccCCcca9FC69a2b32408730011EdB3205A93A1', // stability scusd
+  '0xdc035d45d973e3ec169d2276ddab16f1e407384f', // USDS
 ]
